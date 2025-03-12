@@ -1,4 +1,5 @@
 const dados = require('./estudante.json');
+//metodo nativo do nodejs para ler arquivos
 
 console.log(dados);
 console.log(dados.telefones[1]);
